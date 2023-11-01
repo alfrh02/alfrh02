@@ -6,4 +6,4 @@
 ### University 📜
 
 - [pynth](https://github.com/alfrh02/pynth), raspberry pi based synth (using a MIDI controller). runs on python.
-- [worldviewer/history viewer](https://github.com/alfrh02/worldviewer), web-based 3D earth viewer showing historical events.
+- [worldviewer/history viewer](https://github.com/alfrh02/worldviewer), web-based 3D earth viewer showing historical events; hosted [here](https://doc.gold.ac.uk/~ahall001/project/).
