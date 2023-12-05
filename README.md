@@ -1,7 +1,7 @@
 ### Personal 📚
 - [dotfiles](https://github.com/alfrh02/dotfiles), dwm & st theming; .xinitrc; .bashrc
 - [player tracker (project zomboid mod)](https://github.com/alfrh02/pz-player-tracker), adds a new item that can track other players (inspired by No Country for Old Men)
-- [neoworldviewer](https://github.com/alfrh02/neoworldviewer), recreation of the worldviewer/history viewer university project.
+<!-- - [neoworldviewer](https://github.com/alfrh02/neoworldviewer), recreation of the worldviewer/history viewer university project. -->
 
 ### University 📜
 
