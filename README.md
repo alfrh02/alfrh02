@@ -5,6 +5,6 @@
 
 ### University 📜
 
-- <WIP> [forum app](https://github.com/alfrh02/forum-app), a forum created using Node.js, EJS, Express, MySQL.
+- !WIP! [forum app](https://github.com/alfrh02/forum-app), a forum website created using Node.js, EJS, Express, MySQL.
 - [worldviewer/history viewer](https://github.com/alfrh02/worldviewer), web-based 3D earth viewer showing historical events; hosted [here](https://doc.gold.ac.uk/~ahall001/project/).
 - [pynth](https://github.com/alfrh02/pynth), raspberry pi based synth (using a MIDI controller). runs on python.
